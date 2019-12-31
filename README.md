@@ -46,7 +46,7 @@ return [
 ```
 8. Restart your web server and access your IP/FQDN via a web browser.
 
-![Signup Form](/images/logo.png)
+![Signup Form](https://github.com/jimfreeman/onapp-vcd-signup/blob/master/image.png)
 
 ## Issues
 
