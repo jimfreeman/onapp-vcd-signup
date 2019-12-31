@@ -46,6 +46,8 @@ return [
 ```
 8. Restart your web server and access your IP/FQDN via a web browser.
 
+![Signup Form](/images/logo.png)
+
 ## Issues
 
 Let me know: jim.freeman@onapp.com
